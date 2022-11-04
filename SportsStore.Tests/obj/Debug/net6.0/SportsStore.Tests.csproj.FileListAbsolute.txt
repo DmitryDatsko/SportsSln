@@ -1,0 +1,6 @@
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\bin\Debug\net6.0\CoverletSourceRootsMapping
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.csproj.AssemblyReference.cache
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.AssemblyInfoInputs.cache
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.AssemblyInfo.cs
+C:\Users\ddazk\source\repos\ASP.NET\SportsSln\SportsStore.Tests\obj\Debug\net6.0\SportsStore.Tests.csproj.CoreCompileInputs.cache
